@@ -1,3 +1,4 @@
-fastapi==0.115.0
-uvicorn==0.33.0
-bgutil-ytdlp-pot-provider==1.2.2
+fastapi
+uvicorn
+yt-dlp
+bgutil-ytdlp-pot-provider
